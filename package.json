@@ -34,7 +34,6 @@
     "universal": "napi universal",
     "version": "napi version"
   },
-  "packageManager": "yarn@4.5.0",
   "repository": "https://github.com/smuada/node-daachorse",
   "description": "🐎 A fast implementation of the Aho-Corasick algorithm using the compact double-array data structure. (Node.js wrapper for daachorse)"
 }
