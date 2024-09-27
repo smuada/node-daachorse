@@ -1,0 +1,23 @@
+{
+  "name": "@readomni/node-daachorse-linux-arm64-musl",
+  "version": "0.0.0",
+  "os": [
+    "linux"
+  ],
+  "cpu": [
+    "arm64"
+  ],
+  "main": "node-daachorse.linux-arm64-musl.node",
+  "files": [
+    "node-daachorse.linux-arm64-musl.node"
+  ],
+  "description": "🐎 A fast implementation of the Aho-Corasick algorithm using the compact double-array data structure. (Node.js wrapper for daachorse)",
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  },
+  "repository": "https://github.com/smuada/node-daachorse",
+  "libc": [
+    "musl"
+  ]
+}

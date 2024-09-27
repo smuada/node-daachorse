@@ -1,0 +1,20 @@
+{
+  "name": "@readomni/node-daachorse-darwin-x64",
+  "version": "0.0.0",
+  "os": [
+    "darwin"
+  ],
+  "cpu": [
+    "x64"
+  ],
+  "main": "node-daachorse.darwin-x64.node",
+  "files": [
+    "node-daachorse.darwin-x64.node"
+  ],
+  "description": "🐎 A fast implementation of the Aho-Corasick algorithm using the compact double-array data structure. (Node.js wrapper for daachorse)",
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  },
+  "repository": "https://github.com/smuada/node-daachorse"
+}
